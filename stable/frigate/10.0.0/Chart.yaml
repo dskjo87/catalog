@@ -20,7 +20,7 @@ maintainers:
     url: https://truecharts.org
 name: frigate
 sources:
-   - https://github.com/blakeblackshear/frigate:0.12.0-beta2-tensorrt
+   - https://ghcr.io/blakeblackshear/frigate:stable-tensorrt
 #  - https://github.com/truecharts/charts/tree/master/charts/stable/frigate
 #  - https://github.com/blakeblackshear/frigate
 type: application
