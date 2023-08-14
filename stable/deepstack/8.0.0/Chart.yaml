@@ -17,9 +17,7 @@ maintainers:
     url: https://truecharts.org
 name: deepstack
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/deepstack
-  - https://github.com/johnolafenwa/DeepStack
-  - https://www.deepstack.cc/
+  - https://hub.docker.com/r/deepquestai/deepstack:gpu
 type: application
 version: 8.0.0
 annotations:
